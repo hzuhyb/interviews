@@ -26,16 +26,16 @@
 
 ## 排序（Sorting）
 
-- ### 排序算法动图展示
-- #### [HTML5 Canvas Demo: Sorting Algorithms](http://math.hws.edu/eck/jsdemo/sortlab.html)
+### 排序算法动图展示
+- [HTML5 Canvas Demo: Sorting Algorithms](http://math.hws.edu/eck/jsdemo/sortlab.html)
 
-- ### 基本算法
+### 基本算法
 - #### [插入排序](https://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F)
 - #### [选择排序](https://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F)
 - #### [归并排序](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)
 - #### [快速排序](https://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F)
 - #### [冒泡排序](https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)
 
-- ### 排序算法面试题
-- #### [前端面试必备——基本排序算法](https://mp.weixin.qq.com/s/mpSwqxDra6krU0sHAm-0eg)
-- #### [前端面试中的常见的算法问题](http://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
+### 排序算法面试题
+- [前端面试必备——基本排序算法](https://mp.weixin.qq.com/s/mpSwqxDra6krU0sHAm-0eg)
+- [前端面试中的常见的算法问题](http://www.jackpu.com/qian-duan-mian-shi-zhong-de-chang-jian-de-suan-fa-wen-ti/)
