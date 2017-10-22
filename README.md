@@ -3,6 +3,9 @@
 ## 数据结构
 
 - ### [数组（Arrays）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [关于数组的前端面试题](https://zhuanlan.zhihu.com/p/29514159)
+
+- ### [Set和Map数据结构](http://es6.ruanyifeng.com/#docs/set-map)
 - ### [链表（Linked Lists）](http://www.cnblogs.com/en-heng/p/6385910.html)
 - ### [堆栈（Stack）](https://zh.wikipedia.org/wiki/%E5%A0%86%E6%A0%88)
 - ### [队列（Queue）](https://zh.wikipedia.org/wiki/%E9%98%9F%E5%88%97)
@@ -29,7 +32,7 @@
 ### 排序算法动图展示
 - [HTML5 Canvas Demo: Sorting Algorithms](http://math.hws.edu/eck/jsdemo/sortlab.html)
 
-### 基本算法
+### 基本排序算法
 - #### [插入排序](https://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F)
 - #### [选择排序](https://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F)
 - #### [归并排序](https://zh.wikipedia.org/wiki/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F)
