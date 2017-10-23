@@ -10,21 +10,16 @@
 - ### [堆栈（Stack）](https://zh.wikipedia.org/wiki/%E5%A0%86%E6%A0%88)
 - ### [队列（Queue）](https://zh.wikipedia.org/wiki/%E9%98%9F%E5%88%97)
 - ### [哈希表（Hash table）](https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)
+- ### [树（Trees）](https://zh.wikipedia.org/wiki/%E6%A0%91)
+- [二叉查找树（Binary search trees）]
+- [堆（Heap）]
+- [字典树（Tries）]
+- [平衡查找树（Balanced search trees）]
+- [N 叉树（K 叉树、M 叉树）]
 
-## 树（Trees）
-
-- ### [树](https://zh.wikipedia.org/wiki/%E6%A0%91)
-- ### [二叉查找树（Binary search trees）]
-- ### [堆（Heap）]
-- ### [字典树（Tries）]
-- ### [平衡查找树（Balanced search trees）]
-- ### [N 叉树（K 叉树、M 叉树）]
-
-
-## 其它
-
-- ### [二分查找（Binary search）](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95)
-- ### [按位运算（Bitwise operations）](https://baike.baidu.com/item/%E4%BD%8D%E8%BF%90%E7%AE%97/6888804?fr=aladdin)
+- ### 其它
+- [二分查找（Binary search）](https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95)
+- [按位运算（Bitwise operations）](https://baike.baidu.com/item/%E4%BD%8D%E8%BF%90%E7%AE%97/6888804?fr=aladdin)
 
 
 ## 排序（Sorting）
